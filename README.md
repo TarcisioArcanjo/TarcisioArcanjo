@@ -20,8 +20,9 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,postgres,sqlite,html,css,java,git,github,vscode" width="1000"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,html,css,javascript,typescript,java,excel,powerbi,git,github,vscode" width="1000"/>
 </div>
+
 ---
 
 ### 📊 Projetos em Dados

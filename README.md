@@ -23,7 +23,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,fastapi,flask,mysql,postgres,sqlite,html,css,java,excel,powerbi,git,github,vscode,docker,linux" width="1000"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,postgres,sqlite,html,css,java,git,github,vscode,docker,linux" width="1000"/>
 </div>
 ---
 

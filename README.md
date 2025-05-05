@@ -18,9 +18,6 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-### 🛠️ Tecnologias e Ferramentas
-
-### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,mysql,postgres,sqlite,html,css,java,git,github,vscode,docker,linux" width="1000"/>

@@ -20,7 +20,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,html,css,js,ts,java,excel,powerbi,git,github,vscode" width="1000"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,html,css,js,ts,java,git,github,vscode" width="1000"/>
 </div>
 
 ---

@@ -1,73 +1,87 @@
 <h1 align="center">Olá! Eu sou o Tarcísio 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação | 📊 Futuro Analista de Dados | 🚀 Em busca de estágio em Dados e Tecnologia
+  📊 Estagiário em Dados | 🎓 Ciência da Computação | 🧠 Data Science & Analytics
 </p>
 
 ---
 
 ### ✨ Sobre mim
 
-- 💡 Cursando o 5º semestre de **Ciência da Computação** na Universidade Anhembi Morumbi  
-- 🗓️ Previsão de Conclusão: Dezembro de 2026  
-- 📍 São Paulo - SP  
-- 🎯 Em busca de estágio na área de **Análise de Dados**, com foco em **Python, SQL, Power BI e Excel**  
-- 🔍 Aprendendo continuamente sobre **Data Science, modelagem de dados e visualização interativa**  
-- 👨‍💻 Comunicativo, comprometido e apaixonado por transformar dados em decisões
+- 💼 **Estagiário em Análise de Dados na Construmarket**
+- 🔎 Atuo com análise, organização e estruturação de bases internas
+- 🤖 Desenvolvimento de **automações** usando **N8N** e **Copilot Studio**
+- 🧪 Construção de **queries SQL**, cruzamento de dados e geração de relatórios
+- 📊 Apoio na criação de dashboards, métricas e análises exploratórias
+- 🎓 Estudante do **5º semestre de Ciência da Computação** (UAM)
+- 🚀 Interessado em **Data Science, Machine Learning e soluções automatizadas**
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,html,css,js,ts,java,git,github,vscode" width="1000"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,java,html,css,js,git,github,vscode" width="1000"/>
 </div>
 
----
+**Stacks principais:**
 
-### 📊 Projetos em Dados
-
-- 📈 **Análise de Vendas** com Python + Power BI  
-- 🧹 **Limpeza e Tratamento de Dados** com pandas  
-- 🧠 **Exploração de Dados Públicos** (IBGE, COVID-19, etc.)  
-- 📌 Projetos disponíveis [aqui no GitHub](https://github.com/TarcisioArcanjo)
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL:** Consultas intermediárias, modelagem relacional  
+- **Ferramentas:** Power BI, Excel, Jupyter Notebook, N8N, Copilot Studio, Streamlit  
+- **Machine Learning:** Regressão, árvores de decisão, pré-processamento e métricas  
 
 ---
 
-### 📚 Formação
+### 📊 Projetos
 
-- 🎓 **Ensino Médio Completo** – 2021  
-- 🎓 **Ciência da Computação** – Universidade Anhembi Morumbi  
-  - Cursando (5º semestre) | Previsão de Conclusão: Dezembro/2026
+- 🤖 **Análise de Crédito (Machine Learning)**  
+  Modelo supervisionado para classificação de score de crédito.  
+  *Stack: Python, Scikit-Learn*
+
+- 📉 **Análise de Churn**  
+  Identificação de padrões de cancelamento e geração de insights.  
+  *Stack: Pandas, Plotly*
+
+- 📈 **Dashboard de Vendas**  
+  Dashboard interativo com KPIs comerciais.  
+  *Stack: Streamlit, Pandas*
+
+---
+
+### 📚 Formação Acadêmica
+
+- 🎓 **Ciência da Computação — Universidade Anhembi Morumbi**  
+  7º semestre | Conclusão prevista: Dez/2026
 
 ---
 
 ### 🧩 Cursos Complementares
 
-- 📘 Fundamentos de Python para Data Science – Data Science Academy (em andamento)  
-- ✅ Desenvolvimento Java – Completo (2021)  
-- ✅ Python 3 – Curso em Vídeo  
-- ✅ Curso HTML e CSS – Curso em Vídeo  
-- ✅ Power BI – MiniCurso (UAM)  
-- ✅ Pacote Office 2019 – Fundação Bradesco
+- Python para Análise de Dados e Data Science — DSA  
+- Power BI para Análise de Dados — UAM  
+- Fundamentos de Python — Curso em Vídeo  
+- Banco de Dados para Data Science — Senai  
+- Power BI — Senai  
+- Desenvolvimento Java Completo — Senai  
+- HTML & CSS — Curso em Vídeo  
+- Design Thinking — FIAP  
 
 ---
 
 ### 🌍 Idiomas
 
-- 🗣️ Inglês – Básico (leitura e escrita)
-
+- Inglês
 ---
 
 ### 📫 Contato
 
-- ✉️ E-mail: **arcanjotarcisio@gmail.com**  
-- 📱 Telefone: (11) 98473-4608  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tarcisioarcanjoo)
+- ✉️ E-mail: **arcanjotarcisio@gmail.com**   
+- 💼 LinkedIn: **https://www.linkedin.com/in/tarcisioarcanjoo**
 
 ---
 
 ### 🚀 Obrigado por visitar meu perfil!
 
-Fique à vontade para explorar meus projetos e entrar em contato.  
-Estou sempre pronto para aprender mais e colaborar com novas ideias no mundo dos dados!
+Sou apaixonado por transformar dados em decisões e por desenvolver soluções que gerem impacto real.  
+Fique à vontade para explorar meus projetos!
